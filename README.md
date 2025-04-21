@@ -7,9 +7,3 @@
 
 #### Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,emotion,vite,figma)](https://skillicons.dev)
-
-[![Visits Badge](https://badges.pufler.dev/visits/clara-shin/clara-shin)](https://badges.pufler.dev)
-
-
-
-
