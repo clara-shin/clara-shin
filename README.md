@@ -1,5 +1,5 @@
 
-### Hyejin 
+### Hyejin ✨
 <!-- #### Stack
  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,emotion,vite,figma)](https://skillicons.dev) -->
 
